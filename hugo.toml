@@ -1,0 +1,25 @@
+baseURL = 'http://81.34.127.235/'
+languageCode = 'es'
+title = 'Blog de Carmiña'
+theme = 'notrack'
+pagination.pagerSize = 4 # Posts por página, en el blog.
+
+[params]
+mainSections = ['blog']
+author = 'Carmen Huélamo Moreno'
+# optional, defaults to author:
+siteHeading = 'Los libricos de Carmiña'
+# favicon = "icon.png"
+showBlogLatest = true
+showTaxonomyLinks = false
+
+[params.social]
+email = 'carmenhuemo@gmail.com'
+instagram = '@carmen_insta'
+linkedin = 'carmen_linkedin'
+
+[taxonomies]
+year = "year"
+month = "month"
+tags = "tags"
+categories = "categories"

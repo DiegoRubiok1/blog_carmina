@@ -1,0 +1,2099 @@
+Vigilando la carpeta: /home/asus-admin/blog_carmiña/content/
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+DETECTADO CAMBIO EN: 4913. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 31  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 259 ms
+Publicando en el servidor...
+sending incremental file list
+rsync: [sender] change_dir "/home/asus-admin/blog_carmiña/public" failed: No such file or directory (2)
+
+sent 19 bytes  received 12 bytes  62.00 bytes/sec
+total size is 0  speedup is 0.00
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: 4913. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 31  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 83 ms
+Publicando en el servidor...
+sending incremental file list
+css/
+
+sent 2,663 bytes  received 53 bytes  5,432.00 bytes/sec
+total size is 5,317,102  speedup is 1,957.70
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: post-1.md. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 31  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 95 ms
+Publicando en el servidor...
+sending incremental file list
+
+sent 2,150 bytes  received 48 bytes  4,396.00 bytes/sec
+total size is 95,579  speedup is 43.48
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: post-1.md. REDESPLEGANDO...
+rm: cannot remove 'public': Directory not empty
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 31  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 92 ms
+Publicando en el servidor...
+sending incremental file list
+
+sent 2,150 bytes  received 48 bytes  4,396.00 bytes/sec
+total size is 95,579  speedup is 43.48
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: post-1.md~. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 31  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 72 ms
+Publicando en el servidor...
+sending incremental file list
+sitemap.xml
+css/
+css/styles.min.72d59454d0bbb10bc521b3b84f3d990767cb00ddf9f2555ea74ac9fcde5adcf3.css
+
+sent 14,189 bytes  received 100 bytes  28,578.00 bytes/sec
+total size is 6,273,770  speedup is 439.06
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: 4913. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 31  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 224 ms
+Publicando en el servidor...
+sending incremental file list
+./
+404.html
+index.html
+index.xml
+sitemap.xml
+blog/
+blog/index.html
+blog/index.xml
+blog/page/
+blog/page/1/
+blog/page/1/index.html
+blog/post-1/
+blog/post-1/index.html
+blog/post-2/
+blog/post-2/index.html
+categories/
+categories/index.html
+categories/index.xml
+categories/ensayo/
+categories/ensayo/index.html
+categories/ensayo/index.xml
+categories/ensayo/page/
+categories/ensayo/page/1/
+categories/ensayo/page/1/index.html
+categories/reseñas/
+categories/reseñas/index.html
+categories/reseñas/index.xml
+categories/reseñas/page/
+categories/reseñas/page/1/
+categories/reseñas/page/1/index.html
+contacto/
+contacto/index.html
+css/
+css/styles.min.72d59454d0bbb10bc521b3b84f3d990767cb00ddf9f2555ea74ac9fcde5adcf3.css
+tags/
+tags/index.html
+tags/index.xml
+tags/clásicos/
+tags/clásicos/index.html
+tags/clásicos/index.xml
+tags/clásicos/page/
+tags/clásicos/page/1/
+tags/clásicos/page/1/index.html
+tags/filosofía/
+tags/filosofía/index.html
+tags/filosofía/index.xml
+tags/filosofía/page/
+tags/filosofía/page/1/
+tags/filosofía/page/1/index.html
+tags/generación-del-98/
+tags/generación-del-98/index.html
+tags/generación-del-98/index.xml
+tags/generación-del-98/page/
+tags/generación-del-98/page/1/
+tags/generación-del-98/page/1/index.html
+tags/literatura-española/
+tags/literatura-española/index.html
+tags/literatura-española/index.xml
+tags/literatura-española/page/
+tags/literatura-española/page/1/
+tags/literatura-española/page/1/index.html
+tags/literatura/
+tags/literatura/index.html
+tags/literatura/index.xml
+tags/literatura/page/
+tags/literatura/page/1/
+tags/literatura/page/1/index.html
+tags/lorca/
+tags/lorca/index.html
+tags/lorca/index.xml
+tags/lorca/page/
+tags/lorca/page/1/
+tags/lorca/page/1/index.html
+tags/posesía/
+tags/posesía/index.html
+tags/posesía/index.xml
+tags/posesía/page/
+tags/posesía/page/1/
+tags/posesía/page/1/index.html
+
+sent 102,506 bytes  received 980 bytes  206,972.00 bytes/sec
+total size is 6,273,788  speedup is 60.62
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: 4913. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 31  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 109 ms
+Publicando en el servidor...
+sending incremental file list
+css/
+
+sent 2,971 bytes  received 54 bytes  6,050.00 bytes/sec
+total size is 6,273,788  speedup is 2,073.98
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: _index.md. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 31  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 79 ms
+Publicando en el servidor...
+sending incremental file list
+rsync: [sender] change_dir "/home/asus-admin/blog_carmiña/public" failed: No such file or directory (2)
+
+sent 19 bytes  received 12 bytes  62.00 bytes/sec
+total size is 0  speedup is 0.00
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: _index.md. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 31  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 75 ms
+Publicando en el servidor...
+sending incremental file list
+directory has vanished: "/home/asus-admin/blog_carmiña/public/blog/post-1"
+directory has vanished: "/home/asus-admin/blog_carmiña/public/js"
+directory has vanished: "/home/asus-admin/blog_carmiña/public/tags"
+
+sent 358 bytes  received 19 bytes  754.00 bytes/sec
+total size is 14,379  speedup is 38.14
+rsync warning: some files vanished before they could be transferred (code 24) at main.c(1338) [sender=3.4.1]
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: _index.md~. REDESPLEGANDO...
+rm: cannot remove 'public/tags': Directory not empty
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 31  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 103 ms
+Publicando en el servidor...
+sending incremental file list
+css/styles.min.72d59454d0bbb10bc521b3b84f3d990767cb00ddf9f2555ea74ac9fcde5adcf3.css
+
+sent 12,196 bytes  received 74 bytes  24,540.00 bytes/sec
+total size is 6,273,788  speedup is 511.31
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: 4913. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 31  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 171 ms
+Publicando en el servidor...
+sending incremental file list
+rsync: [sender] change_dir "/home/asus-admin/blog_carmiña/public" failed: No such file or directory (2)
+
+sent 19 bytes  received 12 bytes  62.00 bytes/sec
+total size is 0  speedup is 0.00
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: 4913. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 31  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 81 ms
+Publicando en el servidor...
+sending incremental file list
+rsync: [sender] change_dir "/home/asus-admin/blog_carmiña/public" failed: No such file or directory (2)
+
+sent 19 bytes  received 12 bytes  62.00 bytes/sec
+total size is 0  speedup is 0.00
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: _index.md. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 31  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 93 ms
+Publicando en el servidor...
+sending incremental file list
+./
+
+sent 1,364 bytes  received 42 bytes  2,812.00 bytes/sec
+total size is 48,823  speedup is 34.72
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: _index.md. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 31  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     |  0  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 113 ms
+Publicando en el servidor...
+sending incremental file list
+
+sent 1,720 bytes  received 43 bytes  3,526.00 bytes/sec
+total size is 64,677  speedup is 36.69
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: _index.md~. REDESPLEGANDO...
+rm: cannot remove 'public/fonts': Directory not empty
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 31  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 98 ms
+Publicando en el servidor...
+sending incremental file list
+css/
+
+sent 2,963 bytes  received 54 bytes  6,034.00 bytes/sec
+total size is 6,273,788  speedup is 2,079.48
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: home. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 31  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 165 ms
+Publicando en el servidor...
+sending incremental file list
+rsync: [sender] change_dir "/home/asus-admin/blog_carmiña/public" failed: No such file or directory (2)
+
+sent 19 bytes  received 12 bytes  62.00 bytes/sec
+total size is 0  speedup is 0.00
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: _index.md. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 31  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 68 ms
+Publicando en el servidor...
+sending incremental file list
+
+sent 2,960 bytes  received 51 bytes  6,022.00 bytes/sec
+total size is 6,273,788  speedup is 2,083.62
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: _index.md. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 31  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 155 ms
+Publicando en el servidor...
+sending incremental file list
+404.html
+index.html
+sitemap.xml
+blog/index.html
+blog/page/1/index.html
+blog/post-1/index.html
+blog/post-2/index.html
+categories/index.html
+categories/reseñas/index.html
+categories/reseñas/page/1/index.html
+css/styles.min.72d59454d0bbb10bc521b3b84f3d990767cb00ddf9f2555ea74ac9fcde5adcf3.css
+
+sent 39,782 bytes  received 272 bytes  80,108.00 bytes/sec
+total size is 6,273,788  speedup is 156.63
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: 4913. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 220 ms
+Publicando en el servidor...
+sending incremental file list
+./
+
+sent 797 bytes  received 32 bytes  1,658.00 bytes/sec
+total size is 29,553  speedup is 35.65
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: 4913. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 157 ms
+Publicando en el servidor...
+sending incremental file list
+
+sent 1,620 bytes  received 40 bytes  3,320.00 bytes/sec
+total size is 57,860  speedup is 34.86
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: _index.md. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 141 ms
+Publicando en el servidor...
+sending incremental file list
+./
+
+sent 939 bytes  received 34 bytes  1,946.00 bytes/sec
+total size is 32,179  speedup is 33.07
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: _index.md. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 160 ms
+Publicando en el servidor...
+sending incremental file list
+./
+index.xml
+blog/
+blog/index.xml
+categories/
+categories/index.xml
+categories/ensayo/
+categories/ensayo/index.xml
+categories/reseñas/
+categories/reseñas/index.xml
+home/
+home/index.xml
+tags/
+tags/index.html
+tags/index.xml
+tags/clásicos/
+tags/clásicos/index.html
+tags/clásicos/index.xml
+tags/clásicos/page/
+tags/clásicos/page/1/
+tags/clásicos/page/1/index.html
+tags/filosofía/
+tags/filosofía/index.html
+tags/filosofía/index.xml
+tags/filosofía/page/
+tags/filosofía/page/1/
+tags/filosofía/page/1/index.html
+tags/generación-del-98/
+tags/generación-del-98/index.html
+tags/generación-del-98/index.xml
+tags/generación-del-98/page/
+tags/generación-del-98/page/1/
+tags/generación-del-98/page/1/index.html
+tags/literatura-española/
+tags/literatura-española/index.html
+tags/literatura-española/index.xml
+tags/literatura-española/page/
+tags/literatura-española/page/1/
+tags/literatura-española/page/1/index.html
+tags/literatura/
+tags/literatura/index.html
+tags/literatura/index.xml
+tags/literatura/page/
+tags/literatura/page/1/
+tags/literatura/page/1/index.html
+tags/lorca/
+tags/lorca/index.html
+tags/lorca/index.xml
+tags/lorca/page/
+tags/lorca/page/1/
+tags/lorca/page/1/index.html
+tags/posesía/
+tags/posesía/index.html
+tags/posesía/index.xml
+tags/posesía/page/
+tags/posesía/page/1/
+tags/posesía/page/1/index.html
+
+sent 60,668 bytes  received 690 bytes  122,716.00 bytes/sec
+total size is 57,796  speedup is 0.94
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: _index.md~. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 126 ms
+Publicando en el servidor...
+sending incremental file list
+
+sent 3,031 bytes  received 52 bytes  6,166.00 bytes/sec
+total size is 6,278,559  speedup is 2,036.51
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: 4913. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 139 ms
+Publicando en el servidor...
+sending incremental file list
+./
+404.html
+index.html
+index.xml
+sitemap.xml
+blog/
+blog/index.html
+blog/index.xml
+blog/page/
+blog/page/1/
+blog/page/1/index.html
+blog/post-1/
+blog/post-1/index.html
+blog/post-2/
+blog/post-2/index.html
+categories/
+categories/index.html
+categories/index.xml
+categories/ensayo/
+categories/ensayo/index.html
+categories/ensayo/index.xml
+categories/ensayo/page/
+categories/ensayo/page/1/
+categories/ensayo/page/1/index.html
+categories/reseñas/
+categories/reseñas/index.html
+categories/reseñas/index.xml
+categories/reseñas/page/
+categories/reseñas/page/1/
+categories/reseñas/page/1/index.html
+contacto/
+contacto/index.html
+css/
+css/styles.min.72d59454d0bbb10bc521b3b84f3d990767cb00ddf9f2555ea74ac9fcde5adcf3.css
+home/
+home/index.html
+home/index.xml
+tags/
+tags/index.html
+tags/index.xml
+tags/clásicos/
+tags/clásicos/index.html
+tags/clásicos/index.xml
+tags/clásicos/page/
+tags/clásicos/page/1/
+tags/clásicos/page/1/index.html
+tags/filosofía/
+tags/filosofía/index.html
+tags/filosofía/index.xml
+tags/filosofía/page/
+tags/filosofía/page/1/
+tags/filosofía/page/1/index.html
+tags/generación-del-98/
+tags/generación-del-98/index.html
+tags/generación-del-98/index.xml
+tags/generación-del-98/page/
+tags/generación-del-98/page/1/
+tags/generación-del-98/page/1/index.html
+tags/literatura-española/
+tags/literatura-española/index.html
+tags/literatura-española/index.xml
+tags/literatura-española/page/
+tags/literatura-española/page/1/
+tags/literatura-española/page/1/index.html
+tags/literatura/
+tags/literatura/index.html
+tags/literatura/index.xml
+tags/literatura/page/
+tags/literatura/page/1/
+tags/literatura/page/1/index.html
+tags/lorca/
+tags/lorca/index.html
+tags/lorca/index.xml
+tags/lorca/page/
+tags/lorca/page/1/
+tags/lorca/page/1/index.html
+tags/posesía/
+tags/posesía/index.html
+tags/posesía/index.xml
+tags/posesía/page/
+tags/posesía/page/1/
+tags/posesía/page/1/index.html
+
+sent 107,444 bytes  received 1,018 bytes  216,924.00 bytes/sec
+total size is 6,278,559  speedup is 57.89
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: 4913. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 147 ms
+Publicando en el servidor...
+sending incremental file list
+css/
+
+sent 3,049 bytes  received 55 bytes  6,208.00 bytes/sec
+total size is 6,278,559  speedup is 2,022.73
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: _index.md. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 112 ms
+Publicando en el servidor...
+sending incremental file list
+./
+404.html
+index.html
+index.xml
+sitemap.xml
+blog/
+blog/index.html
+blog/index.xml
+blog/page/
+blog/page/1/
+blog/page/1/index.html
+blog/post-1/
+blog/post-1/index.html
+blog/post-2/
+blog/post-2/index.html
+categories/
+categories/index.html
+categories/index.xml
+categories/ensayo/
+categories/ensayo/index.html
+categories/ensayo/index.xml
+categories/ensayo/page/
+categories/ensayo/page/1/
+categories/ensayo/page/1/index.html
+categories/reseñas/
+categories/reseñas/index.html
+categories/reseñas/index.xml
+categories/reseñas/page/
+categories/reseñas/page/1/
+categories/reseñas/page/1/index.html
+contacto/
+contacto/index.html
+home/
+home/index.html
+home/index.xml
+tags/
+tags/index.html
+tags/index.xml
+tags/clásicos/
+tags/clásicos/index.html
+tags/clásicos/index.xml
+tags/clásicos/page/
+tags/clásicos/page/1/
+tags/clásicos/page/1/index.html
+tags/filosofía/
+tags/filosofía/index.html
+tags/filosofía/index.xml
+tags/filosofía/page/
+tags/filosofía/page/1/
+tags/filosofía/page/1/index.html
+tags/generación-del-98/
+tags/generación-del-98/index.html
+tags/generación-del-98/index.xml
+tags/generación-del-98/page/
+tags/generación-del-98/page/1/
+tags/generación-del-98/page/1/index.html
+tags/literatura-española/
+tags/literatura-española/index.html
+tags/literatura-española/index.xml
+tags/literatura-española/page/
+tags/literatura-española/page/1/
+tags/literatura-española/page/1/index.html
+tags/literatura/
+tags/literatura/index.html
+tags/literatura/index.xml
+tags/literatura/page/
+tags/literatura/page/1/
+tags/literatura/page/1/index.html
+tags/lorca/
+tags/lorca/index.html
+tags/lorca/index.xml
+tags/lorca/page/
+tags/lorca/page/1/
+tags/lorca/page/1/index.html
+tags/posesía/
+tags/posesía/index.html
+tags/posesía/index.xml
+tags/posesía/page/
+tags/posesía/page/1/
+tags/posesía/page/1/index.html
+
+sent 98,141 bytes  received 1,004 bytes  198,290.00 bytes/sec
+total size is 6,278,559  speedup is 63.33
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: _index.md. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 94 ms
+Publicando en el servidor...
+sending incremental file list
+rsync: [sender] change_dir "/home/asus-admin/blog_carmiña/public" failed: No such file or directory (2)
+
+sent 19 bytes  received 12 bytes  62.00 bytes/sec
+total size is 0  speedup is 0.00
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: _index.md~. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 85 ms
+Publicando en el servidor...
+sending incremental file list
+rsync: [sender] change_dir "/home/asus-admin/blog_carmiña/public" failed: No such file or directory (2)
+
+sent 19 bytes  received 12 bytes  62.00 bytes/sec
+total size is 0  speedup is 0.00
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: 4913. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 108 ms
+Publicando en el servidor...
+sending incremental file list
+./
+404.html
+index.html
+index.xml
+sitemap.xml
+blog/
+blog/index.html
+blog/index.xml
+blog/page/
+blog/page/1/
+blog/page/1/index.html
+blog/post-1/
+blog/post-1/index.html
+blog/post-2/
+blog/post-2/index.html
+categories/
+categories/index.html
+categories/index.xml
+categories/ensayo/
+categories/ensayo/index.html
+categories/ensayo/index.xml
+categories/ensayo/page/
+categories/ensayo/page/1/
+categories/ensayo/page/1/index.html
+categories/reseñas/
+categories/reseñas/index.html
+categories/reseñas/index.xml
+categories/reseñas/page/
+categories/reseñas/page/1/
+categories/reseñas/page/1/index.html
+contacto/
+contacto/index.html
+css/
+css/styles.min.72d59454d0bbb10bc521b3b84f3d990767cb00ddf9f2555ea74ac9fcde5adcf3.css
+home/
+home/index.html
+home/index.xml
+tags/
+tags/index.html
+tags/index.xml
+tags/clásicos/
+tags/clásicos/index.html
+tags/clásicos/index.xml
+tags/clásicos/page/
+tags/clásicos/page/1/
+tags/clásicos/page/1/index.html
+tags/filosofía/
+tags/filosofía/index.html
+tags/filosofía/index.xml
+tags/filosofía/page/
+tags/filosofía/page/1/
+tags/filosofía/page/1/index.html
+tags/generación-del-98/
+tags/generación-del-98/index.html
+tags/generación-del-98/index.xml
+tags/generación-del-98/page/
+tags/generación-del-98/page/1/
+tags/generación-del-98/page/1/index.html
+tags/literatura-española/
+tags/literatura-española/index.html
+tags/literatura-española/index.xml
+tags/literatura-española/page/
+tags/literatura-española/page/1/
+tags/literatura-española/page/1/index.html
+tags/literatura/
+tags/literatura/index.html
+tags/literatura/index.xml
+tags/literatura/page/
+tags/literatura/page/1/
+tags/literatura/page/1/index.html
+tags/lorca/
+tags/lorca/index.html
+tags/lorca/index.xml
+tags/lorca/page/
+tags/lorca/page/1/
+tags/lorca/page/1/index.html
+tags/posesía/
+tags/posesía/index.html
+tags/posesía/index.xml
+tags/posesía/page/
+tags/posesía/page/1/
+tags/posesía/page/1/index.html
+
+sent 109,919 bytes  received 1,022 bytes  221,882.00 bytes/sec
+total size is 6,281,034  speedup is 56.62
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: 4913. REDESPLEGANDO...
+rm: cannot remove 'public/tags': Directory not empty
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 106 ms
+Publicando en el servidor...
+sending incremental file list
+css/
+
+sent 3,049 bytes  received 55 bytes  6,208.00 bytes/sec
+total size is 6,281,034  speedup is 2,023.53
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: _index.md. REDESPLEGANDO...
+rm: cannot remove 'public/tags': Directory not empty
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 121 ms
+Publicando en el servidor...
+sending incremental file list
+./
+404.html
+index.html
+index.xml
+sitemap.xml
+blog/
+blog/index.html
+blog/index.xml
+blog/page/
+blog/page/1/
+blog/page/1/index.html
+blog/post-1/
+blog/post-1/index.html
+blog/post-2/
+blog/post-2/index.html
+categories/
+categories/index.html
+categories/index.xml
+categories/ensayo/
+categories/ensayo/index.html
+categories/ensayo/index.xml
+categories/ensayo/page/
+categories/ensayo/page/1/
+categories/ensayo/page/1/index.html
+categories/reseñas/
+categories/reseñas/index.html
+categories/reseñas/index.xml
+categories/reseñas/page/
+categories/reseñas/page/1/
+categories/reseñas/page/1/index.html
+contacto/
+contacto/index.html
+css/styles.min.72d59454d0bbb10bc521b3b84f3d990767cb00ddf9f2555ea74ac9fcde5adcf3.css
+home/
+home/index.html
+home/index.xml
+tags/
+tags/index.html
+tags/index.xml
+tags/clásicos/
+tags/clásicos/index.html
+tags/clásicos/index.xml
+tags/clásicos/page/
+tags/clásicos/page/1/
+tags/clásicos/page/1/index.html
+tags/filosofía/
+tags/filosofía/index.html
+tags/filosofía/index.xml
+tags/filosofía/page/
+tags/filosofía/page/1/
+tags/filosofía/page/1/index.html
+tags/generación-del-98/
+tags/generación-del-98/index.html
+tags/generación-del-98/index.xml
+tags/generación-del-98/page/
+tags/generación-del-98/page/1/
+tags/generación-del-98/page/1/index.html
+tags/literatura-española/
+tags/literatura-española/index.html
+tags/literatura-española/index.xml
+tags/literatura-española/page/
+tags/literatura-española/page/1/
+tags/literatura-española/page/1/index.html
+tags/literatura/
+tags/literatura/index.html
+tags/literatura/index.xml
+tags/literatura/page/
+tags/literatura/page/1/
+tags/literatura/page/1/index.html
+tags/lorca/
+tags/lorca/index.html
+tags/lorca/index.xml
+tags/lorca/page/
+tags/lorca/page/1/
+tags/lorca/page/1/index.html
+tags/posesía/
+tags/posesía/index.html
+tags/posesía/index.xml
+tags/posesía/page/
+tags/posesía/page/1/
+tags/posesía/page/1/index.html
+
+sent 109,843 bytes  received 1,019 bytes  221,724.00 bytes/sec
+total size is 6,281,034  speedup is 56.66
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: _index.md. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 77 ms
+Publicando en el servidor...
+sending incremental file list
+css/
+
+sent 3,041 bytes  received 55 bytes  6,192.00 bytes/sec
+total size is 6,281,034  speedup is 2,028.76
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: _index.md~. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 121 ms
+Publicando en el servidor...
+sending incremental file list
+
+sent 1,949 bytes  received 46 bytes  3,990.00 bytes/sec
+total size is 73,204  speedup is 36.69
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: 4913. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 191 ms
+Publicando en el servidor...
+sending incremental file list
+rsync: [sender] change_dir "/home/asus-admin/blog_carmiña/public" failed: No such file or directory (2)
+
+sent 19 bytes  received 12 bytes  62.00 bytes/sec
+total size is 0  speedup is 0.00
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: 4913. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 98 ms
+Publicando en el servidor...
+sending incremental file list
+./
+index.xml
+blog/
+blog/index.xml
+categories/
+categories/index.xml
+categories/ensayo/
+categories/ensayo/index.xml
+categories/reseñas/
+categories/reseñas/index.xml
+home/
+home/index.xml
+tags/
+tags/index.xml
+tags/clásicos/
+tags/clásicos/index.html
+tags/clásicos/index.xml
+tags/clásicos/page/
+tags/clásicos/page/1/
+tags/clásicos/page/1/index.html
+tags/filosofía/
+tags/filosofía/index.html
+tags/filosofía/index.xml
+tags/filosofía/page/
+tags/filosofía/page/1/
+tags/filosofía/page/1/index.html
+tags/generación-del-98/
+tags/generación-del-98/index.html
+tags/generación-del-98/index.xml
+tags/generación-del-98/page/
+tags/generación-del-98/page/1/
+tags/generación-del-98/page/1/index.html
+tags/literatura-española/
+tags/literatura-española/index.html
+tags/literatura-española/index.xml
+tags/literatura-española/page/
+tags/literatura-española/page/1/
+tags/literatura-española/page/1/index.html
+tags/literatura/
+tags/literatura/index.html
+tags/literatura/index.xml
+tags/literatura/page/
+tags/literatura/page/1/
+tags/literatura/page/1/index.html
+tags/lorca/
+tags/lorca/index.html
+tags/lorca/index.xml
+tags/lorca/page/
+tags/lorca/page/1/
+tags/lorca/page/1/index.html
+tags/posesía/
+tags/posesía/index.html
+tags/posesía/index.xml
+tags/posesía/page/
+tags/posesía/page/1/
+tags/posesía/page/1/index.html
+
+sent 59,247 bytes  received 671 bytes  119,836.00 bytes/sec
+total size is 56,437  speedup is 0.94
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: _index.md. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 114 ms
+Publicando en el servidor...
+sending incremental file list
+
+sent 1,850 bytes  received 44 bytes  3,788.00 bytes/sec
+total size is 70,966  speedup is 37.47
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: _index.md. REDESPLEGANDO...
+rm: cannot remove 'public/fonts': Directory not empty
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 100 ms
+Publicando en el servidor...
+sending incremental file list
+
+sent 1,529 bytes  received 38 bytes  3,134.00 bytes/sec
+total size is 57,954  speedup is 36.98
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: _index.md~. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 86 ms
+Publicando en el servidor...
+sending incremental file list
+fonts/
+fonts/mononoki-Bold.woff2
+
+sent 36,672 bytes  received 78 bytes  24,500.00 bytes/sec
+total size is 6,281,034  speedup is 170.91
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: 4913. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 235 ms
+Publicando en el servidor...
+sending incremental file list
+./
+404.html
+index.html
+index.xml
+sitemap.xml
+blog/index.html
+blog/index.xml
+blog/page/1/index.html
+blog/post-1/index.html
+blog/post-2/
+blog/post-2/index.html
+categories/
+categories/index.html
+categories/index.xml
+categories/ensayo/
+categories/ensayo/index.html
+categories/ensayo/index.xml
+categories/ensayo/page/1/
+categories/ensayo/page/1/index.html
+categories/reseñas/index.html
+categories/reseñas/index.xml
+categories/reseñas/page/
+categories/reseñas/page/1/index.html
+contacto/index.html
+css/
+css/styles.min.72d59454d0bbb10bc521b3b84f3d990767cb00ddf9f2555ea74ac9fcde5adcf3.css
+home/
+home/index.html
+home/index.xml
+tags/
+tags/index.html
+tags/index.xml
+tags/clásicos/
+tags/clásicos/index.html
+tags/clásicos/index.xml
+tags/clásicos/page/
+tags/clásicos/page/1/
+tags/clásicos/page/1/index.html
+tags/filosofía/
+tags/filosofía/index.html
+tags/filosofía/index.xml
+tags/filosofía/page/
+tags/filosofía/page/1/
+tags/filosofía/page/1/index.html
+tags/generación-del-98/
+tags/generación-del-98/index.html
+tags/generación-del-98/index.xml
+tags/generación-del-98/page/1/index.html
+tags/literatura-española/
+tags/literatura-española/index.html
+tags/literatura-española/index.xml
+tags/literatura-española/page/
+tags/literatura-española/page/1/
+tags/literatura-española/page/1/index.html
+tags/literatura/
+tags/literatura/index.html
+tags/literatura/index.xml
+tags/literatura/page/
+tags/literatura/page/1/
+tags/literatura/page/1/index.html
+tags/lorca/
+tags/lorca/index.html
+tags/lorca/index.xml
+tags/lorca/page/1/
+tags/lorca/page/1/index.html
+tags/posesía/
+tags/posesía/index.html
+tags/posesía/index.xml
+tags/posesía/page/
+tags/posesía/page/1/index.html
+
+sent 109,884 bytes  received 986 bytes  221,740.00 bytes/sec
+total size is 6,281,034  speedup is 56.65
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: 4913. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 151 ms
+Publicando en el servidor...
+sending incremental file list
+blog/page/
+blog/page/1/
+blog/post-1/
+blog/post-2/
+categories/ensayo/page/
+categories/ensayo/page/1/
+categories/reseñas/page/
+categories/reseñas/page/1/
+css/
+tags/generación-del-98/page/
+tags/generación-del-98/page/1/
+
+sent 3,071 bytes  received 85 bytes  6,312.00 bytes/sec
+total size is 6,281,034  speedup is 1,990.19
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: post-1.md. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 191 ms
+Publicando en el servidor...
+sending incremental file list
+css/
+fonts/
+
+sent 3,045 bytes  received 58 bytes  6,206.00 bytes/sec
+total size is 6,281,034  speedup is 2,024.18
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: post-1.md. REDESPLEGANDO...
+rm: cannot remove 'public': Directory not empty
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 170 ms
+Publicando en el servidor...
+sending incremental file list
+./
+404.html
+index.html
+sitemap.xml
+blog/index.html
+blog/page/
+blog/page/1/
+blog/page/1/index.html
+blog/post-1/
+blog/post-1/index.html
+blog/post-2/
+blog/post-2/index.html
+categories/index.html
+categories/reseñas/index.html
+css/
+css/styles.min.72d59454d0bbb10bc521b3b84f3d990767cb00ddf9f2555ea74ac9fcde5adcf3.css
+fonts/
+
+sent 40,588 bytes  received 271 bytes  81,718.00 bytes/sec
+total size is 6,281,034  speedup is 153.72
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: post-1.md~. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 33  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 118 ms
+Publicando en el servidor...
+sending incremental file list
+./
+
+sent 2,120 bytes  received 55 bytes  4,350.00 bytes/sec
+total size is 93,548  speedup is 43.01
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: 4913. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 37  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 27  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 359 ms
+Publicando en el servidor...
+sending incremental file list
+rsync: [sender] change_dir "/home/asus-admin/blog_carmiña/public" failed: No such file or directory (2)
+
+sent 19 bytes  received 12 bytes  62.00 bytes/sec
+total size is 0  speedup is 0.00
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: 4913. REDESPLEGANDO...
+rm: cannot remove 'public/blog': Directory not empty
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 37  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 27  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 149 ms
+Publicando en el servidor...
+sending incremental file list
+css/
+
+sent 3,130 bytes  received 56 bytes  6,372.00 bytes/sec
+total size is 6,160,764  speedup is 1,933.70
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: contacto.md. REDESPLEGANDO...
+rm: cannot remove 'public/tags': Directory not empty
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 37  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 27  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 142 ms
+Publicando en el servidor...
+sending incremental file list
+
+sent 3,127 bytes  received 53 bytes  6,360.00 bytes/sec
+total size is 6,160,764  speedup is 1,937.35
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: contacto.md. REDESPLEGANDO...
+rm: cannot remove 'public': Directory not empty
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 37  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 27  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 115 ms
+Publicando en el servidor...
+sending incremental file list
+404.html
+index.html
+index.xml
+sitemap.xml
+blog/
+blog/index.html
+blog/index.xml
+blog/page/
+blog/page/1/
+blog/page/1/index.html
+blog/post-1/
+blog/post-1/index.html
+blog/post-2/
+blog/post-2/index.html
+categories/index.html
+categories/index.xml
+categories/ensayo/index.html
+categories/ensayo/page/
+categories/ensayo/page/1/
+categories/ensayo/page/1/index.html
+categories/reseñas/index.html
+categories/reseñas/page/
+categories/reseñas/page/1/
+categories/reseñas/page/1/index.html
+contacto/
+contacto/index.html
+css/styles.min.72d59454d0bbb10bc521b3b84f3d990767cb00ddf9f2555ea74ac9fcde5adcf3.css
+home/index.html
+month/index.html
+tags/index.html
+tags/clásicos/index.html
+tags/clásicos/page/
+tags/clásicos/page/1/
+tags/clásicos/page/1/index.html
+tags/filosofía/index.html
+tags/filosofía/page/
+tags/filosofía/page/1/
+tags/filosofía/page/1/index.html
+tags/generación-del-98/index.html
+tags/generación-del-98/page/
+tags/generación-del-98/page/1/
+tags/generación-del-98/page/1/index.html
+tags/literatura-española/index.html
+tags/literatura-española/page/
+tags/literatura-española/page/1/
+tags/literatura-española/page/1/index.html
+tags/literatura/index.html
+tags/literatura/page/
+tags/literatura/page/1/
+tags/literatura/page/1/index.html
+tags/lorca/index.html
+tags/lorca/page/
+tags/lorca/page/1/
+tags/lorca/page/1/index.html
+tags/posesía/index.html
+tags/posesía/page/
+tags/posesía/page/1/
+tags/posesía/page/1/index.html
+year/index.html
+
+sent 86,194 bytes  received 814 bytes  174,016.00 bytes/sec
+total size is 6,160,764  speedup is 70.81
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: contacto.md~. REDESPLEGANDO...
+rm: cannot remove 'public': Directory not empty
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 37  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 27  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 86 ms
+Publicando en el servidor...
+sending incremental file list
+css/
+
+sent 3,122 bytes  received 56 bytes  6,356.00 bytes/sec
+total size is 6,160,764  speedup is 1,938.57
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: 4913. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 37  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 212 ms
+Publicando en el servidor...
+sending incremental file list
+
+sent 3,166 bytes  received 54 bytes  6,440.00 bytes/sec
+total size is 6,287,076  speedup is 1,952.51
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: 4913. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 37  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 178 ms
+Publicando en el servidor...
+sending incremental file list
+rsync: [sender] change_dir "/home/asus-admin/blog_carmiña/public" failed: No such file or directory (2)
+
+sent 19 bytes  received 12 bytes  62.00 bytes/sec
+total size is 0  speedup is 0.00
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: contacto.md. REDESPLEGANDO...
+rm: cannot remove 'public': Directory not empty
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 37  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 111 ms
+Publicando en el servidor...
+sending incremental file list
+404.html
+index.html
+blog/index.html
+blog/page/
+blog/page/1/
+blog/page/1/index.html
+blog/post-1/
+blog/post-1/index.html
+blog/post-2/
+blog/post-2/index.html
+categories/index.html
+categories/ensayo/index.html
+categories/ensayo/page/
+categories/ensayo/page/1/
+categories/ensayo/page/1/index.html
+categories/reseñas/index.html
+categories/reseñas/page/
+categories/reseñas/page/1/
+categories/reseñas/page/1/index.html
+contacto/
+contacto/index.html
+css/styles.min.72d59454d0bbb10bc521b3b84f3d990767cb00ddf9f2555ea74ac9fcde5adcf3.css
+home/index.html
+
+sent 45,947 bytes  received 355 bytes  92,604.00 bytes/sec
+total size is 6,287,076  speedup is 135.78
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: contacto.md. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 37  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 126 ms
+Publicando en el servidor...
+sending incremental file list
+css/
+
+sent 3,077 bytes  received 56 bytes  6,266.00 bytes/sec
+total size is 6,087,764  speedup is 1,943.11
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
+DETECTADO CAMBIO EN: contacto.md~. REDESPLEGANDO...
+Generando sitio estático...
+Start building sites … 
+hugo v0.131.0+extended linux/amd64 BuildDate=2024-09-03T01:15:37Z VendorInfo=ubuntu:0.131.0-1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 37  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 28  
+  Processed images |  0  
+  Aliases          | 10  
+  Cleaned          |  0  
+
+Total in 86 ms
+Publicando en el servidor...
+sending incremental file list
+./
+404.html
+index.html
+index.xml
+blog/
+blog/index.html
+blog/index.xml
+blog/page/
+blog/page/1/
+blog/page/1/index.html
+blog/post-1/
+blog/post-1/index.html
+blog/post-2/
+blog/post-2/index.html
+categories/
+categories/index.html
+categories/index.xml
+categories/ensayo/
+categories/ensayo/index.html
+categories/ensayo/index.xml
+categories/ensayo/page/
+categories/ensayo/page/1/
+categories/ensayo/page/1/index.html
+categories/reseñas/index.html
+categories/reseñas/index.xml
+categories/reseñas/page/1/index.html
+contacto/index.html
+css/
+css/styles.min.72d59454d0bbb10bc521b3b84f3d990767cb00ddf9f2555ea74ac9fcde5adcf3.css
+home/
+home/index.html
+home/index.xml
+month/index.html
+month/index.xml
+tags/index.html
+tags/index.xml
+tags/clásicos/index.html
+tags/clásicos/index.xml
+tags/clásicos/page/1/index.html
+tags/filosofía/index.html
+tags/filosofía/index.xml
+tags/filosofía/page/1/index.html
+tags/generación-del-98/index.html
+tags/generación-del-98/index.xml
+tags/generación-del-98/page/1/index.html
+tags/literatura-española/index.html
+tags/literatura-española/index.xml
+tags/literatura-española/page/1/index.html
+tags/literatura/index.html
+tags/literatura/index.xml
+tags/literatura/page/1/index.html
+tags/lorca/index.html
+tags/lorca/index.xml
+tags/lorca/page/1/index.html
+tags/posesía/index.html
+tags/posesía/index.xml
+tags/posesía/page/1/index.html
+year/index.html
+year/index.xml
+
+sent 114,022 bytes  received 1,007 bytes  230,058.00 bytes/sec
+total size is 6,287,076  speedup is 54.66
+¡Blog actualizado con éxito!
+Hecho. Esperando más cambios...
