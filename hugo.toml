@@ -1,4 +1,4 @@
-baseURL = 'http://81.34.127.235/'
+baseURL = 'http://diegohost.duckdns.org/'
 languageCode = 'es'
 title = 'Blog de Carmiña'
 theme = 'notrack'

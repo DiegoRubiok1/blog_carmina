@@ -1,11 +1,4 @@
-+++
-title = 'Romancero Gitano: El destino trágico'
-date = 2026-02-04T15:55:38Z
-Tags = ["Posesía", "Lorca", "Clásicos", "Literatura Española"]
-Categories = ["Reseñas"]
-author = "Carmen Huélamo Moreno"
-draft = false
-+++
+
 
 Federico García Lorca no escribió un libro en 1928; pintó un cuadro de Andalucía con palabras, sangre y luz de luna. El **Romancero Gitano** no es solo una colección de poemas, es un grito estilizado donde lo popular se mezcla con la vanguardia más exquisita.
 

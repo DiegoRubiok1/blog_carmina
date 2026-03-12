@@ -6,7 +6,7 @@ draft = false
 [menu.main]
 name = "Home"
 identifier = "home"
-weight = 5
+weight = 1
 +++
 
 

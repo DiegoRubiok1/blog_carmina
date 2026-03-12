@@ -6,7 +6,5 @@ draft = false
 [menu.main]
 identifier = 'blog'
 name = 'Blog'
-weight = 5
+weight = 2
 +++
-
-

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Blog de Carmiña - Year </title>
+    <title>Blog de Carmiña - Galería </title>
     <link rel="stylesheet" type="text/css" href="/css/fonts.css">
     <link rel="stylesheet" type="text/css" href="/css/fontawesome.css">
     
@@ -12,7 +12,6 @@
     <meta charset="UTF-8">
     <meta name="author" content="Carmen Huélamo Moreno">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="alternate" type="application/rss+xml" href="http://diegohost.duckdns.org/year/index.xml" title="Blog de Carmiña" />
     </head>
 <body>
 <header class="page-header">
@@ -35,7 +34,7 @@
                     <a class="" href="/tags/">Todas las Etiquetas</a>
                 </div>
             </li>
-            <li class="">
+            <li class="activetab">
                 <a href="/galeria/">
                     <span>Galería</span>
                 </a>
@@ -49,13 +48,47 @@
     </nav>
 </header>
 <div id="content">
-<main>
-    <h1>All Year</h1>
+    <main>
+        <article>
+            
+            <h1 class="page-title">Galería</h1>
+            
+                <ul class="gallery-category">
+    
+    <li class="gallery-photo">
+        <img src="/img/thumbnails/carmi%c3%b1a.jpg"
+             alt="your caption">
+    </li>
 
-    <ul>
-        
-    </ul>
-</main>
+    <li class="gallery-photo">
+        <img src="/img/thumbnails/carmi%c3%b1a.jpg"
+             alt="your caption">
+    </li>
+
+    <li class="gallery-photo">
+        <img src="/img/thumbnails/carmi%c3%b1a.jpg"
+             alt="your caption">
+    </li>
+
+
+    <li class="gallery-photo"></li>
+</ul>
+
+<p>
+<div id="myModal" class="modal">
+    <span class="close">&times;</span>
+    <img class="modal-content" id="modal-img">
+    <div id="caption"></div>
+    <div id="loader"></div>
+</div>
+
+
+<script src="/js/gallery.js"></script>
+</p>
+
+            
+        </article>
+    </main>
 
         </div><footer>
     <span></span>
